@@ -3,14 +3,17 @@
 <h3 align="center">🔥 Streak stats 🔥</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=som-m&theme=monokai-metallian&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=som-m&theme=monokai-metallian&hide_border=true" width="600px" />
 </p>
 
 <h3 align="center">🛠 GitHub stats 🛠</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/?username=som-m&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=stars" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=som-m&hide=elixir&layout=compact&title_color=fff&text_color=fff&bg_color=151515" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api/?username=som-m&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=stars" width="600px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=som-m&hide=elixir&layout=compact&title_color=fff&text_color=fff&bg_color=151515" width="600px" />
 </p>
 
 <br>
