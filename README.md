@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=som-m&layout=compact&title_color=fff&text_color=fff&bg_color=151515" width="600px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=som-m&include_forks=true&langs_count=10&layout=compact&title_color=fff&text_color=fff&bg_color=151515" width="600px" />
 </p>
 
 <br>
