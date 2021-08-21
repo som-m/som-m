@@ -16,11 +16,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=som-m&include_forks=true&langs_count=10&layout=compact&title_color=fff&text_color=fff&bg_color=151515" width="600px" />
 </p>
  -->
- 
-<br>
-
-<p align="center">
-  <a href="https://linkedin.com/in/chanapa-panithantham" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="chanapa-panithantham" height="30" width="40" /></a>
-  <a href="https://fb.com/som.somm.sommm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="som.somm.sommm" height="30" width="40" /></a>
-  <a href="https://instagram.com/namsommm_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="namsommm_" height="30" width="40" /></a>
-</p>
